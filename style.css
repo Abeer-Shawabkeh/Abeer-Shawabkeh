@@ -1,0 +1,48 @@
+body {
+    font-size: 18px;
+    font-family: Helvetica , Arial; 
+}
+
+h1, h2 {
+    color:green;
+}
+
+div {
+    display: flex;
+    font-size: 40px; 
+    background-color: tomato;
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid #000;
+    justify-content: center;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+} 
+
+.main-text{
+    text-align: justify;
+}
+#auther-text{
+    font-size: 22px;
+}
+a {
+    display: block;
+    width: 400px;
+    height: 50px;
+    background-color: yellowgreen;
+}
+
+img{
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    
+}
+
+.auther-img {
+    width: 150px;
+    height: 150px;
+}
